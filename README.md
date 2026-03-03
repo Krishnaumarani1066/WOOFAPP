@@ -1,7 +1,5 @@
 <div align="center">
   
-  <!-- WALKING DOG ANIMATION -->
-  <img src="https://media.tenor.com/P1qgqBvK-4oAAAAi/corgi-dog.gif" width="120" alt="Walking Dog Animation" />
 
   <!-- BIG ANIMATED TITLE -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=900&size=50&pause=1000&color=FF9800&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%90%B6+WOOF+APP" alt="Animated Title" />
